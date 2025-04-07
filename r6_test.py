@@ -12,3 +12,4 @@ auto2 = r6.Auto.crear_auto("Ford", "Focus")
 auto1.mostrar_info()
 auto2.mostrar_info()
 print(r6.Auto.comparar_kilometraje(auto1, auto2))
+ 

@@ -44,3 +44,4 @@ class Auto:
             return f"El auto {auto1.marca} tiene más kilometraje que el auto {auto2.marca}."
         else:
             return f"El auto {auto2.marca} tiene más kilometraje que el auto {auto1.marca}."
+ 
